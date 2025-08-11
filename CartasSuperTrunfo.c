@@ -3,7 +3,7 @@
 int main() {
     // Cidade 1
     char nome1[30] = "POA";
-    char estado1[3] = "RS";  
+    char estado1[10] = "RS";  
     char codigo1[10] = "A01"; 
     float populacao1; 
     float pib1;
@@ -12,7 +12,7 @@ int main() {
 
     // Cidade 2
     char nome2[30] = "RJ";
-    char estado2[3] = "RIOJ";
+    char estado2[10] = "RIOJ";
     char codigo2[10] = "B01";
     float populacao2;
     float pib2; 

@@ -78,6 +78,6 @@ int main() {
     printf("\nO jogador escolhe qual atributo deseja comparar e decide quem venceu.\n");
 
         
-
+    
         return 0;
     }
